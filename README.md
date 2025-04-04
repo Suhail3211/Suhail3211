@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Suhail3211
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Suhail3211/Suhail3211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📁 Freelance Portfolio - Power BI & Data Analytics
+│
+├── 📁 01_ECommerce_Sales_Dashboard
+│   ├── Report.pbix
+│   ├── Dataset.csv
+│   ├── README.md (explains data source, steps, insights)
+│
+├── 📁 02_HR_Attrition_Analysis
+│   ├── Report.pbix
+│   ├── Python_Cleaning_Script.py
+│   ├── README.md
+│
+├── 📁 03_Financial_Performance
+│   ├── Report.pbix
+│   ├── DAX_Measures.txt
+│   ├── README.md
+│
+├── 📁 04_Healthcare_Claims
+│   ├── PowerQuerySteps.m
+│   ├── Report.pbix
+│   ├── README.md
+│
+├── 📄 Portfolio_Summary.pdf (overview of your skills, each project summary)
